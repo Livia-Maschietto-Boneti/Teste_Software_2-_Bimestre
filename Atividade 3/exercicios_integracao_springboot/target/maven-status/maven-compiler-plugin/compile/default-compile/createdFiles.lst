@@ -1,0 +1,6 @@
+br\edu\exemplo\controller\ProdutoRequest.class
+br\edu\exemplo\repository\ProdutoRepository.class
+br\edu\exemplo\Aplicacao.class
+br\edu\exemplo\model\Produto.class
+br\edu\exemplo\controller\ProdutoController.class
+br\edu\exemplo\service\ProdutoService.class
